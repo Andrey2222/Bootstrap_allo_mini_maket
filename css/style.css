@@ -2,6 +2,12 @@
 	width: 400px;
 	display: inline-block;
 }
+.color_fon {
+	background-color: rgb(255,249,175);
+}
+.shadow_btn{
+ box-shadow: 0 -3px rgb(53,167,110) inset;
+}
 .dot {
 	text-decoration: none; 
     border-bottom: 1px dashed #000080; 
@@ -11,9 +17,17 @@
    }
  .top_marg{
  	margin-top: 30px;
+ 	width: 400px;
  }
  .line { 
     border-right: 2px solid #ccc; 
     padding-right: : 2px; 
     border-height: 10px;
+    height: 85px;
   }
+input {
+	vertical-align: top;
+}
+.helth {
+	margin-left: 25px;
+}
