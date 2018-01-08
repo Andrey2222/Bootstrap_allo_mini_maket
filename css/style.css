@@ -1,0 +1,19 @@
+.picture_filter {
+	width: 400px;
+	display: inline-block;
+}
+.dot {
+	text-decoration: none; 
+    border-bottom: 1px dashed #000080; 
+}
+ .dot:hover {
+    color: #f00000; 
+   }
+ .top_marg{
+ 	margin-top: 30px;
+ }
+ .line { 
+    border-right: 2px solid #ccc; 
+    padding-right: : 2px; 
+    border-height: 10px;
+  }
