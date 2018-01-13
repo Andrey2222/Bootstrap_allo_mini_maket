@@ -22,7 +22,6 @@
  .line { 
     border-right: 2px solid #ccc; 
     padding-right: : 2px; 
-    border-height: 10px;
     height: 85px;
   }
 input {
@@ -30,4 +29,26 @@ input {
 }
 .helth {
 	margin-left: 25px;
+}
+
+.picture_delivery {
+  margin-left: 30px;
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+.btn-marg {
+  margin-bottom: 10px;
+}
+.date {
+padding-top: 30px;
+}
+.line_bottom {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc; 
+    margin-bottom: 10px;
+}
+p.pay {
+  font-size: 25px;
+  margin-bottom: 20px;
 }
